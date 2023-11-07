@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: aliceblue;
+    height: 50px;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 100px;
+}
