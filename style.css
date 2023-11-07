@@ -20,3 +20,13 @@ h1, h2, h3, h4 {
     justify-content: center;
     margin-top: 20px;
 }
+
+.btn {
+    text-decoration: none;
+    width: 120px;
+    display: block;
+    background-color: yellow;
+    text-align: center;
+    border: black 1px solid;
+    justify-content: right;
+}
